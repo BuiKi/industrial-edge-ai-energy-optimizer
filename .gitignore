@@ -1,0 +1,15 @@
+# Môi trường ảo Python
+venv/
+env/
+ENV/
+.venv/
+
+# Cấu hình môi trường và bảo mật
+.env
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+*.db
