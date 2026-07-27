@@ -1,6 +1,4 @@
-Tuyệt vời! Dưới đây là nội dung file **`README.md`** hoàn chỉnh, đẹp mắt và cực kỳ chuyên nghiệp dành riêng cho thư mục **`app/core`**.
 
-Bạn hãy tạo một file tên là `README.md` bên trong thư mục `app/core` và dán đoạn nội dung này vào nhé:
 
 ````markdown
 # ⚙️ Core Module (`app/core`)
