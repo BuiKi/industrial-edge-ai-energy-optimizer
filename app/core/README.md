@@ -1,6 +1,3 @@
-
-
-````markdown
 # ⚙️ Core Module (`app/core`)
 
 <div align="center">
@@ -29,7 +26,8 @@ app/core/
 ├── database.py         # Asynchronous SQLAlchemy engine & session dependency
 └── init_database.py    # Database schema auto-generator for PostgreSQL
 ```
-````
+
+```
 
 ---
 
@@ -70,3 +68,4 @@ app/core/
 - Automatically provisions and creates the full multi-tenant schema (4 core tables) directly inside the PostgreSQL database if they do not already exist.
 
 ---
+```
