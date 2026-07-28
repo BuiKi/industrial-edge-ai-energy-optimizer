@@ -3,7 +3,7 @@ venv/
 env/
 ENV/
 .venv/
-
+industrial-edge-env/
 # Cấu hình môi trường và bảo mật
 .env
 
